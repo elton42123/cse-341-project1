@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/elton42123/cse-341-project1/issues"
   },
-  "homepage": "https://github.com/elton42123/cse-341-project1#readme",
   "dependencies": {
     "express": "^5.1.0"
   }
